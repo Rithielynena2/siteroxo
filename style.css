@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    color: #fcfcfc;
+    text-align: center;
+    background-image: url(971.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    color: #ffffff;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #b700ffb9;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ffffff;
+}
+
+#mensagem {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#textoAlterado {
+    color: #ffffff;
+    font-style: italic;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
